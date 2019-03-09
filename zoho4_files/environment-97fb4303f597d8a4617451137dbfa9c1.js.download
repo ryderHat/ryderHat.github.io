@@ -1,0 +1,1 @@
+define("templates/config/environment",function(){return{default:{modulePrefix:"templates"}}})

@@ -1,0 +1,1 @@
+define("reports/config/environment",function(){return{default:{modulePrefix:"reports"}}})
